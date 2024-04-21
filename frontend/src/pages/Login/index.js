@@ -22,7 +22,7 @@ const Copyright = () => {
 		<Typography variant="body2" color="primary" align="center">
 			{"Copyright "}
  			<Link color="primary" href="#">
- 				PLW
+ 				B2W Energia Solar
  			</Link>{" "}
  			{new Date().getFullYear()}
  			{"."}
